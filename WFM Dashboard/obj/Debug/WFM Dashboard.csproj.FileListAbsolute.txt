@@ -6,3 +6,14 @@ E:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFMDashboard.Prope
 E:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.csproj.GenerateResource.Cache
 E:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.exe
 E:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.pdb
+E:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\bin\Debug\WFM Dashboard.exe.config
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\bin\Debug\WFM Dashboard.exe
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\bin\Debug\WFM Dashboard.pdb
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFMDashboard.Form1.resources
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFMDashboard.Properties.Resources.resources
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.csproj.GenerateResource.Cache
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.exe
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.pdb
+D:\Programming\Projects\WFM Dashboard\WFM Dashboard\obj\Debug\WFM Dashboard.csprojAssemblyReference.cache
